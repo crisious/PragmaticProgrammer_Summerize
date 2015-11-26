@@ -1,4 +1,8 @@
-My Awesome Book
+차례
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+- 배울만한 언어
+- WISDOM 놀이
+- 직교성을 유지하는 방법
+- 프로토타입을 만들 것들
+- 
