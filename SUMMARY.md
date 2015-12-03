@@ -8,4 +8,5 @@
 * [아키텍쳐에 관련 질문](c544_d0a4_d14d_ccd0_c5d0_ad00_b828_c9c8_bb38.md)
 * [디버깅 체크리스트](b514_bc84_ae45_ccb4_d06c_b9ac_c2a4_d2b8.md)
 * [용어집](GLOSSARY.md)
+* 디미터 함수 법칙
 
