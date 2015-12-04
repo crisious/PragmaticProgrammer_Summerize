@@ -9,6 +9,6 @@
 * [디버깅 체크리스트](b514_bc84_ae45_ccb4_d06c_b9ac_c2a4_d2b8.md)
 * [디미터 함수 법칙](b514_bbf8_d130_d568_c218_bc95_ce59.md)
 * [의도적으로 프로그래밍 하는 방법](c758_b3c4_c801_c73c_b85c_d504_b85c_adf8_b798_bc0d_.md)
-* [용어집](GLOSSARY.md)
 * [언제 리펙토링을 해야 하는가](c5b8_c81c_b9ac_d399_d1a0_b9c1_c744_d574_c57c_d558_.md)
+* [용어집](GLOSSARY.md)
 
