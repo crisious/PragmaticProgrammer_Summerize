@@ -6,3 +6,4 @@
 4. [프로토타입을 만들 것들](https://www.gitbook.com/book/c815c601c900/-/edit#/edit/master/d504_b85c_d1a0_d0c0_c785_c744_b9cc_b4e4_ac83_b4e4.md)
 5. [아키텍쳐에 관련된 질문](https://www.gitbook.com/book/c815c601c900/-/edit#/edit/master/c544_d0a4_d14d_ccd0_c5d0_ad00_b828_c9c8_bb38.md)
 6. [디버깅 체크리스트](https://www.gitbook.com/book/c815c601c900/-/edit#/edit/master/b514_bc84_ae45_ccb4_d06c_b9ac_c2a4_d2b8.md)
+7. [팁과 트릭](https://www.gitbook.com/book/c815c601c900/-/edit#/edit/master/d301_acfc_d2b8_b9ad.md)
